@@ -4,7 +4,7 @@
 
 a scraper that displays the scores of the day's NHL games. updates every 30 seconds from the NHL json scoreboard API
 
-![terminal](term.png)
+<img src="./term.png" width="600" />
 
 ## getting started
 
