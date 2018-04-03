@@ -1,7 +1,5 @@
 ![banner](banner.png)
 
-# gwg
-
 a scraper that displays the scores of the day's NHL games. updates every 30 seconds from the NHL json scoreboard API
 
 <img src="./term.png" width="600" />
