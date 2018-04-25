@@ -16,8 +16,18 @@ a scraper that displays the scores of the day's NHL games. updates every 30 seco
 
 `pip3 install -r requirements.txt`
 
+after installing requirements, permit the script to execute:
+
+`chmod u+x gwg.py`
+
 ## usage
 
 ```bash
-python3 gwg.py
+gwg.py
 ```
+
+## License
+
+This repo was originally forked from [Ticker](https://github.com/stvhwrd/Ticker) then tweaked to integrate the new NHL api.
+
+[MIT License](./LICENSE)
